@@ -7,4 +7,5 @@ The gameplay rules are very simple: flip over two hidden cards at a time to loca
 The game ends once all cards have been correctly matched.
 # Using jQuery :
 I used a source code jQuery to connect with HTML elements in the browser via the DOM and Timer instance API.
-
+# AnimateCss :
+I used an animate function to give my cards animation actions when the user click on them.
