@@ -6,4 +6,5 @@ The cards are arranged randomly on the grid with the symbol face down.
 The gameplay rules are very simple: flip over two hidden cards at a time to locate the ones that match.
 The game ends once all cards have been correctly matched.
 # Using jQuery :
-I used a jQuery to connect with HTML elements in the browser via the DOM and Timer instance API.
+I used a source code jQuery to connect with HTML elements in the browser via the DOM and Timer instance API.
+
