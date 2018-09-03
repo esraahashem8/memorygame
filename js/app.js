@@ -176,7 +176,8 @@ function resetGame() {
     gameStart=false;
     timer.stop();
     $('#timer').html("00:00:00");
-    initGame();
+	openCards = [];
+	initGame();
 }
 
 initGame();
