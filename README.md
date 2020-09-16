@@ -9,3 +9,7 @@ The game ends once all cards have been correctly matched.
 I used a source code jQuery to connect with HTML elements in the browser via the DOM and Timer instance API.
 # AnimateCss :
 I used an animate function to give my cards animation actions when the user click on them.
+
+# To load the game :
+You can clone or download the zip file and then open index.html
+
